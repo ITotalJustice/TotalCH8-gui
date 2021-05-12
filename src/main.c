@@ -1,4 +1,4 @@
-#include "ch8.h"
+#include <TotalCH8/ch8.h>
 
 #include <stdio.h>
 #include <stdlib.h>
